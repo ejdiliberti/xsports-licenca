@@ -1,11 +1,11 @@
 {
   "dados": {
-    "licenciado": "ID TV S.A. (canal X Sports)",
+    "licenciado": "ID TV S.A. (canal XSPORTS)",
     "titular": "Esteban José Diliberti",
-    "emitido": "2026-11-24T10:35:30",
+    "emitido": "2026-11-24T11:06:30",
     "mensagem": "",
     "estado": "ativa",
     "validade": "2027-05-31"
   },
-  "assinatura": "41982cfc805ec021aac3eb4a12122afe96f3c85d22169d28802a4241629e862ef723cc24c778de1f3b4e4ee7ee0e0840b96a9337a737c713f004a0e52f5bca0a"
+  "assinatura": "1325c492d3925018215481ce2cc94c3eb4c75944ce7d510fe03321049fac40150d0f7773c7b6c8f85af2e62a65362c70c301ffa924f3fdc192f1942e94eef807"
 }
